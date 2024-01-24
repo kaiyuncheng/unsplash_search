@@ -1,3 +1,4 @@
 # unsplash_search
+Search images with Unsplash API
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/kaiyuncheng/unsplash_search)
+[Edit with StackBlitz](https://stackblitz.com/~/github.com/kaiyuncheng/unsplash_search)
